@@ -22,6 +22,6 @@ public class Main {
             result += in.nextLine();
         }
         System.out.println(result);
-        
+
     }
 }
